@@ -1,6 +1,6 @@
 <h1 align="center">Nicola Gutierrez</h1>
 
-<p align="center"> Just another software engineering student. </p>
+<p align="center"> Yet another software engineer. </p>
 
 ## 📫 How to reach me: 
 - nicolagutierrez.ng@gmail.com
